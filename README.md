@@ -106,6 +106,19 @@ The log file records:
 * Trading occurs only on Binance Futures Testnet.
 
 ---
+## Sample Outputs
+
+### MARKET Order Execution
+
+![Market Order](screenshots/market_order.png)
+
+### LIMIT Order Execution
+
+![Limit Order](screenshots/limit_order.png)
+
+### Log File
+
+![Log File](screenshots/log_file.png)
 
 ## Author
 
