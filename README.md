@@ -6,16 +6,20 @@ This project is a Python-based trading bot that places MARKET and LIMIT orders o
 
 The bot supports:
 
-* BUY orders
-* SELL orders
-* MARKET orders
-* LIMIT orders
-* CLI-based user input
-* Logging
-* Error handling
-* Input validation
+- BUY orders
+- SELL orders
+- MARKET orders
+- LIMIT orders
+- CLI-based user input
+- Logging
+- Error handling
+- Input validation
 
----
+### Tested Successfully
+
+- BUY MARKET
+- SELL MARKET
+- BUY LIMIT
 
 ## Project Structure
 
