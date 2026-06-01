@@ -37,8 +37,6 @@ trading_bot/
 
 ├── cli.py
 
-├── .env
-
 ├── requirements.txt
 
 └── README.md
